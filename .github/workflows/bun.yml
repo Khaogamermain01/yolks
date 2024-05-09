@@ -31,4 +31,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/Khaogamermain01/yolks:bun_latest
+            ghcr.io/khaogamermain01/yolks:bun_latest
